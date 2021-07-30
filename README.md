@@ -11,17 +11,17 @@
 ```python
 import imaplib
 ```
-💥 Check the details for imaplib module [here](https://docs.python.org/3/library/imaplib.html)
+💥 Check the details for imaplib module [here](https://docs.python.org/3/library/imaplib.html) !
 
 ```python
 import getpass
 ```
-💥 Check the details for getpass module [here](https://docs.python.org/3/library/getpass.html)
+💥 Check the details for getpass module [here](https://docs.python.org/3/library/getpass.html) !
 
 ```python
 import email
 ```
-💥 Check the details for email package [here](https://docs.python.org/3/library/email.examples.html)
+💥 Check the details for email package [here](https://docs.python.org/3/library/email.examples.html) !
 
 
 
